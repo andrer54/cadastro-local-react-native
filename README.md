@@ -1,2 +1,4 @@
-iniciar a aplicação:
-expo start
+app utilizando expo.  
+
+iniciar a aplicação:  
+        expo start
